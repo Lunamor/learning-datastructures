@@ -11,7 +11,7 @@ public class App {
 		myCounter.increment();
 		myCounter.increment();
 		
-		System.out.println(myCounter.getCurrentValue);
+		System.out.println(myCounter.getCurrentValue());
 		
 		LinkedList myList = new LinkedList();
 	}
